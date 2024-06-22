@@ -13,7 +13,8 @@ import pandas as pd
 import os
 from pandasai import SmartDataframe
 from pandasai import Agent
-os.environ['PANDASAI_API_KEY'] = "$2a$10$qRm2WxEQUQiUQr9pL/jcgexrBqyjKdL/WIb1JPr36q04tPHrDHjPK"
+#os.environ['PANDASAI_API_KEY'] = "$2a$10$qRm2WxEQUQiUQr9pL/jcgexrBqyjKdL/WIb1JPr36q04tPHrDHjPK"
+os.environ['PANDASAI_API_KEY']="$2a$10$9mmDHvAZ/d.rjCBxiTgWQO/PWIxGC8lrOGACanJXdNeKpDr3AV/OK"
 
 #Func Defination
 
