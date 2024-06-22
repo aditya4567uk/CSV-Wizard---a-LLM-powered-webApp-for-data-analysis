@@ -1,0 +1,8 @@
+pandasai
+torch
+streamlit
+pandas
+numpy
+os.sys
+matplotlib
+os-sys
