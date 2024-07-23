@@ -11,10 +11,12 @@ Created on Fri Jun 21 21:24:03 2024
 import streamlit as st
 import pandas as pd
 import os
+import tkinter
+import matplotlib
+matplotlib.use('TkAgg')
 from pandasai import SmartDataframe
 from pandasai import Agent
-#os.environ['PANDASAI_API_KEY'] = "$2a$10$qRm2WxEQUQiUQr9pL/jcgexrBqyjKdL/WIb1JPr36q04tPHrDHjPK"
-os.environ['PANDASAI_API_KEY']="$2a$10$9mmDHvAZ/d.rjCBxiTgWQO/PWIxGC8lrOGACanJXdNeKpDr3AV/OK"
+os.environ['PANDASAI_API_KEY'] = "$2a$10$6FpomczvdrSN1Bd9Dby9z..eTK1awUQm3hwCqq4yXFMNOgIpf7M/W"
 
 #Func Defination
 
